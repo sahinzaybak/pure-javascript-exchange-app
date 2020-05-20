@@ -171,3 +171,13 @@ header .header-item:nth-child(9):hover {
   color: #ff3f55;
   font-size: 13px;
 }
+.list-filter select {
+  width: 194px;
+  height: 46px;
+  text-indent: 8px;
+  border-radius: 4px;
+  border: 1px solid #dfdddd;
+  box-shadow: #dddddd 1px 1px 8px 1px;
+  cursor: pointer;
+  outline: 0;
+}

@@ -15,14 +15,21 @@
 <body>
 
     <header>
-        <div class="header container d-flex align-items-center justify-content-between h-100 px-0"></div>
+        <div class="header container d-flex align-items-center justify-content-between h-100 px-0">
+            <!--Kateogoriler buraya basılılıyor. -->
+        </div>
     </header>
 
     <div class="list container px-0">
-        <h3 class="list-title mb-4">Güncel İlanlar</h3>
+        <div class="list-header mb-4 d-flex align-items-center justify-content-between">
+            <div class="title"><h3 class="list-title">Güncel İlanlar</h3></div>
+            <div class="list-filter"><select><option selected disabled>İl Seçiniz</option><option value="bütün-iller">Bütün İller</option><!-- İller buraya basılıyor--></select></div>
+        </div>
+        
+        
         <div class="list-wrp">
             <div class="row">
-                <!-- <a href="#" class="col-md-3 list-item"></a> -->
+                <!--İlan listesi buraya basılılıyor. -->
             </div>
         </div>
     </div>
