@@ -190,3 +190,70 @@ header{
         }
     }
 }
+
+.detail{
+    .images{
+        margin-bottom: 20px;
+        height: 340px;
+        img{
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+        }
+    }
+    .thumbs{
+        &-item{
+            width: 150px;
+            margin-right: 20px;
+            &:last-child{
+                margin-right: 0
+            }
+        }
+    }
+    &-wrp{
+        h1{
+            font-size: 28px;
+        }
+        h2{
+            font-size: 40px;
+            color: #ff3f55;
+            padding: 10px 0;
+        }
+        h3{
+            font-size: 20px;
+        }
+        .area{
+            &-wrp{
+                color: #f1f1f1;
+                p{
+                    padding-bottom: 7px;
+                    display: inline-block;
+                    background-color: #ff3f55;
+                    padding: 5px 13px;
+                    margin-bottom: 10px;
+                    color: whitesmoke;
+                    font-size: 15px;
+                }
+            }
+        }
+        .info{
+            margin-top: 25px;
+            &-item{
+                h4{
+                    font-size: 15px;
+                    color: #494949;
+                    font-weight: bold;
+                    margin-right: 10px;
+                    margin-bottom: 0
+                }
+            }
+        }
+    }
+
+    .social{
+        justify-content: space-evenly;
+    }
+    .buttons{
+       
+    }
+}

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Takas Proje | Anasayfa</title>
+    <title>Takas Proje | Ürün Detay </title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
@@ -15,32 +15,38 @@
 <body>
 
     <header>
-        <div class="header container d-flex align-items-center justify-content-between h-100 px-0">
-            <!--Kateogoriler buraya basılılıyor. -->
-        </div>
+        <div class="header container d-flex align-items-center justify-content-between h-100 px-0"><!--Kateogoriler buraya basılılıyor. --></div>
     </header>
 
-    <div class="list container px-0">
-        <div class="list-header mb-4 d-flex align-items-center justify-content-between">
-            <div class="title"><h3 class="list-title">Güncel İlanlar</h3></div>
-            <div class="list-filter"><select><option selected disabled>İl Seçiniz</option><option value="bütün-iller">Bütün İller</option><!-- İller buraya basılıyor--></select></div>
-        </div>
-        
-        
-        <div class="list-wrp">
-            <div class="row">
-                <!--İlan listesi buraya basılılıyor. -->
+    <div class="detail container px-0 pt-5">
+        <div class="row">
+            <div class="col-md-9">
+                <div class="row">
+                    <div class="col-md-6 slider">
+                        <div class="images">
+                            <img class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-md-6 detail-wrp">
+                       <!--  buraya ürün detay bilgileri geliyor.-->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <h3>İlan Sahibi Bilgileri</h3>
+                <div class="owner text-center">
+                  
+                </div>
             </div>
         </div>
+      
     </div>
 
-   
     <script type="text/javascript" src="_src/js/services/category-services.js"></script>
     <script type="text/javascript" src="_src/js/services/products-services.js"></script>
     <script type="text/javascript" src="_src/js/services/member-services.js"></script>
     <script type="text/javascript" src="_src/js/components/getCategory.js"></script>
-    <script type="text/javascript" src="_src/js/main.js"></script>
-  
+    <script type="text/javascript" src="_src/js/advert-detail.js"></script>
 </body>
 
 </html>

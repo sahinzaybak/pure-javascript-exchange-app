@@ -1,18 +1,3 @@
-//Kategorileri getir -> getCategory dediğimde bana "category" objesi döner. -> category-services.js
-getCategory().then( data => {
-    const header = document.querySelector('.header');
-    data.forEach(element => {
-        //a elementi oluşturdum ve içerisine kategori ile ilgili bilgileri girdim.
-       const aElement = document.createElement('a');
-       aElement.innerHTML= element.categoryName;
-       aElement.href= element.categoryName;
-       aElement.classList.add('header-item', 'd-flex' ,'align-items-center','justify-content-center', 'h-100')
-       header.appendChild(aElement);
-    });
-})
-
-
-let productDetail;
 // Üyeleri getirir -> member-services.js
 member().then(owner => {
         //İlan sahiplerinin şehir bilgisini filter yapmak için dropdown'a bastırdık.
@@ -25,6 +10,7 @@ member().then(owner => {
         });
   
     // İlanları getirir -> getProducts dediğimde bana "ilan" array döner. -> products-services.js
+    let productDetail;
     getProducts().then( data => {
          productDetail = data.map( x => {
             //İlanı veren kişinin detaylarını almak için "owner" tablosu ile "product" tablosundan ilgili id ile eşleştirdik.
@@ -37,6 +23,7 @@ member().then(owner => {
             });
             //product-detail return.
             return{
+                ürünLink:x.slug,
                 ürünAdı:x.name,
                 ürünResmi:x.cover,
                 ürünFiyatı:x.price,
@@ -53,7 +40,7 @@ function viewProduct(value) {
     value.forEach(element => {
         const listWrp = document.querySelector('.list-wrp .row');
         const a = document.createElement('a');
-        a.href= element.ürünAdı;
+        a.href= `product-detail.html?urun=${element.ürünLink}`
         a.classList.add('col-md-4');
         a.innerHTML = ` 
         <div class="list-item">
@@ -94,6 +81,10 @@ function selectCountry(e){
 
     viewProduct(filterCountry); //fonksiyonu çağırdık.
 }
+
+
+
+
 
 
 

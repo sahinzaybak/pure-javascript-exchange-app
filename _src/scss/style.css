@@ -181,3 +181,56 @@ header .header-item:nth-child(9):hover {
   cursor: pointer;
   outline: 0;
 }
+
+.detail .images {
+  margin-bottom: 20px;
+  height: 340px;
+}
+.detail .images img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.detail .thumbs-item {
+  width: 150px;
+  margin-right: 20px;
+}
+.detail .thumbs-item:last-child {
+  margin-right: 0;
+}
+.detail-wrp h1 {
+  font-size: 28px;
+}
+.detail-wrp h2 {
+  font-size: 40px;
+  color: #ff3f55;
+  padding: 10px 0;
+}
+.detail-wrp h3 {
+  font-size: 20px;
+}
+.detail-wrp .area-wrp {
+  color: #f1f1f1;
+}
+.detail-wrp .area-wrp p {
+  padding-bottom: 7px;
+  display: inline-block;
+  background-color: #ff3f55;
+  padding: 5px 13px;
+  margin-bottom: 10px;
+  color: whitesmoke;
+  font-size: 15px;
+}
+.detail-wrp .info {
+  margin-top: 25px;
+}
+.detail-wrp .info-item h4 {
+  font-size: 15px;
+  color: #494949;
+  font-weight: bold;
+  margin-right: 10px;
+  margin-bottom: 0;
+}
+.detail .social {
+  justify-content: space-evenly;
+}
