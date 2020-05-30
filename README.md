@@ -1,5 +1,5 @@
 # Pure javascript ile takas sitesi
-Repository her gün güncellenecektir. ES6 + async await, map, filter ..  Sadece pure javascript kullanarak yapıyor olduğum takas sitesi. Aynı siteyi vue.js/vuex kullanarak'ta yapacağım. Kodlara gerekli açıklamaları yazıyorum, pure javascript öğrenmek isteyen arkadaşlar kodları inceleyebilirler.
+ES6 + async await, map, filter ..  Sadece pure javascript kullanarak yapıyor olduğum takas sitesi. Aynı siteyi vue.js/vuex kullanarak'ta yapacağım. Kodlara gerekli açıklamaları yazıyorum, pure javascript öğrenmek isteyen arkadaşlar kodları inceleyebilirler.
 API'yi kendim hazırladım ve daha sonra firebase'e atıp uzaktan çekebileceğim bir json dosyası elde ettim.
 <br>
 <div align="center">
