@@ -1,4 +1,5 @@
 // Üyeleri getirir -> member-services.js
+let productDetail;
 member().then(owner => {
         //İlan sahiplerinin şehir bilgisini filter yapmak için dropdown'a bastırdık.
         const countryList = new Set (owner.map(item => item.country)); //"new Set" diyerek aynı olan şehirlerin tekrar gelmemesini sağladık.
@@ -9,8 +10,8 @@ member().then(owner => {
             select.appendChild(option);
         });
   
-    // İlanları getirir -> getProducts dediğimde bana "ilan" array döner. -> products-services.js
-    let productDetail;
+
+    // İlanları getirir -> getProducts dediğimde bana "ilan" array döner. -> products-services.js -> productDetail = ilanlar
     getProducts().then( data => {
          productDetail = data.map( x => {
             //İlanı veren kişinin detaylarını almak için "owner" tablosu ile "product" tablosundan ilgili id ile eşleştirdik.
@@ -36,10 +37,10 @@ member().then(owner => {
 
 //Ürünleri listeleyen fonksiyon.
 function viewProduct(value) {
-    //Artık istediğimiz herşey productDetail'de. Şimdi ise foreach ile dönüp elamanları html olarak ekliyoruz.
+    //Artık istediğimiz herşey productDetail'de. Şimdi ise foreach ile dönüp elamanları html olarak ekliyoruz. --> ViewProduct(productDetail);
     value.forEach(element => {
         const listWrp = document.querySelector('.list-wrp .row');
-        const a = document.createElement('a');
+        const a = document.createElement('a'); //her döngüde yeni bir "a" nesnesi oluşturduk.
         a.href= `product-detail.html?urun=${element.ürünLink}`
         a.classList.add('col-md-4');
         a.innerHTML = ` 
@@ -62,7 +63,7 @@ function viewProduct(value) {
             </div>
          </div>
          `
-        listWrp.appendChild(a);
+        listWrp.appendChild(a); //oluşrulan "a" nesnesini listWrp'nin altına (çocuklarına) ekledik.
     });
 }
 
@@ -70,16 +71,15 @@ function viewProduct(value) {
 const select = document.querySelector('.list-filter select');
 select.addEventListener('change', selectCountry);
 function selectCountry(e){
-    //Önceki oluşan product list elementlerini DOM'dan kaldırdık.
     let row = document.querySelector('.list-wrp .row');
-    while (row.firstChild) row.removeChild(row.firstChild);
+    while (row.firstChild) row.removeChild(row.firstChild);  //Önceki oluşan product list elementlerini DOM'dan kaldırdık.
     
     //seçilen il'e göre "productDetail" içerisinde filter yaptık.
     const selectedCountry = e.target.value;
     let filterCountry = productDetail.filter(item => item.ilanSahibi[0].ilanSahibiSehir == selectedCountry);
     if(selectedCountry == "bütün-iller") filterCountry = productDetail; // eğer "bütün iller" seçili ise tüm ürünleri getirir."
 
-    viewProduct(filterCountry); //fonksiyonu çağırdık.
+    viewProduct(filterCountry); //fonksiyonu çağırdık. ve viewProduct objesini yeni bilgilerle doldurduk.
 }
 
 

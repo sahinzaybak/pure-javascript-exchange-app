@@ -1,0 +1,1173 @@
+{
+    "categories":[
+        {
+            "categoryName" : "Telefon",
+            "slug":"telefon"
+        },
+        {
+            "categoryName" : "Bilgisayar",
+            "slug":"bilgisayar"
+        },
+        {
+            "categoryName" : "Giyim",
+            "slug":"giyim"
+        },
+        {
+            "categoryName" : "Aksesuar",
+            "slug":"aksesuar"
+        },
+        {
+            "categoryName" : "Mobilya",
+            "slug":"mobilya"
+        },
+        {
+            "categoryName" : "Oyuncak",
+            "slug":"oyuncak"
+        },
+        {
+            "categoryName" : "Kitap & Okul",
+            "slug":"kitap-okul"
+        },
+        {
+            "categoryName" : "Oyun & Film",
+            "slug":"oyun-film"
+        },
+        {
+            "categoryName" : "Spor",
+            "slug":"spor"
+        }
+    ],
+
+    "adverts": [
+		{
+            "advertId":0,
+            "slug" : "samsung-galaxy-note-10",
+            "name": "Samsung Galaxy Note 10",
+            "cover": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/01/samsung-galaxy-s10-note-10-lite-20.jpg?itok=nkxNC9PU",
+            "images":[
+                {
+                    "url" :"https://smsoptimizedimages.azureedge.net/0018354_samsung-galaxy-note10-256gb-ay-tozu-grisi_550.jpeg"
+                },
+                {
+                    "url" :"https://images.samsung.com/tr/smartphones/galaxy-note10/images/galaxy-note10_highlights_mobile_kv.jpg"
+                },
+                {
+                    "url" :"https://smsoptimizedimages.azureedge.net/0018354_samsung-galaxy-note10-256gb-ay-tozu-grisi_550.jpeghttps://cdn.akakce.com/samsung/samsung-galaxy-note-10-lite-128-gb-gri-z.jpg"
+                }
+            ],
+            "price": 6.000,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "iPhone 8 Plus"
+                },
+                {
+                    "name" : "Playstation 4"
+                },
+                {
+                    "name" : "Çamaşır Makinesi"
+                },
+                {
+                    "name" : "Bulaşık Makinesi"
+                }
+            ],
+            "date" :"12.03.2018",
+            "category": "telefon",
+            "ownerid":0,
+            "commnets" :[
+                {
+                    "author": "Mehmet Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Elmas elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Kerim Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Sadık Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":1,
+            "slug" : "25-inc-imac",
+            "name": "25 inç iMAC",
+            "cover": "https://photos5.appleinsider.com/gallery/30631-50403-iMac-5K-with-i9-Processor-l.jpg",
+            "images":[
+                {
+                    "url" :"https://www.macworld.co.uk/cmsdata/slideshow/3692130/21_5in_imac_04_thumb800.jpg"
+                },
+                {
+                    "url" :"https://images.samsung.com/tr/smartphones/galaxy-note10/images/galaxy-note10_highlights_mobile_kv.jpg"
+                },
+                {
+                    "url" :"https://photos5.appleinsider.com/gallery/30475-50023-iMac-5K-Head-On-View-l.jpg"
+                }
+            ],
+            "price": 12.000,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "iPhone X Plus"
+                },
+                {
+                    "name" : "Playstation 5"
+                },
+                {
+                    "name" : "26 inm iMAC"
+                }
+            ],
+            "date" :"12.02.2020",
+            "category": "bilgisayar",
+            "ownerid": 1,
+            "commnets" :[
+                {
+                    "author": "Sadık Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Selma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Ferit Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Mehmet Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":2,
+            "slug" : "bebek-tulumu",
+            "name": "Bebek Tulumu",
+            "cover": "https://beykozevdenevenakliyat.co/25355-1-large_default/Duygu-anneler-k%C4%B1%C5%9F-bebek-tulum-yenido%C4%9Fan-fanila-erkek-bebek-giysileri-hayvan-bebek-k%C4%B1z-tulum-bebek-giyim.jpg",
+            "images":[
+                {
+                    "url" :"https://beykozevdenevenakliyat.co/25355-1-large_default/Duygu-anneler-k%C4%B1%C5%9F-bebek-tulum-yenido%C4%9Fan-fanila-erkek-bebek-giysileri-hayvan-bebek-k%C4%B1z-tulum-bebek-giyim.jpg"
+                },
+                {
+                    "url" :"https://www.bebekhouse.com/UserFiles/ProductImages/0/18ycr121i191/orj/carters-kiz-bebek-3lu-set-cs-pembe-77926.jpg"
+                }
+            ],
+            "price": 250,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "Bebek Arabası"
+                },
+                {
+                    "name" : "Bebek Çantası"
+                },
+                {
+                    "name" : "Bebek Yatağı"
+                },
+                {
+                    "name" : "Bebek Telsizi"
+                }
+            ],
+            "date" :"08.02.2020",
+            "category": "giyim",
+            "ownerid" :2,
+            "commnets" :[
+                {
+                    "author": "Olgun Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Selma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Ferit Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Mehmet Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":3,
+            "slug" : "sochic-mor-kristal-tasli-kolye",
+            "name": "soChic Mor Kristal Taşlı Kolye",
+            "cover": "https://i.pinimg.com/originals/10/7a/79/107a7999109529d0d2bfc60f7b204333.jpg",
+            "images":[
+                {
+                    "url" :"https://i.pinimg.com/originals/db/38/26/db3826dc109718af0ea9e5e92d607617.jpg"
+                },
+                {
+                    "url" :"https://i.pinimg.com/originals/10/7a/79/107a7999109529d0d2bfc60f7b204333.jpg"
+                }
+            ],
+            "price": 3.500,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "Tek taş pırlanta"
+                },
+                {
+                    "name" : "Altın kolye"
+                },
+                {
+                    "name" : "Çamaşır Makinesi"
+                },
+                {
+                    "name" : "Süpürge Makinesi"
+                },
+                {
+                    "name" : "QLED HD Televizyon"
+                }
+            ],
+            "date" :"17.08.2018",
+            "category": "aksesuar",
+            "ownerid" : 3,
+            "commnets" :[
+                {
+                    "author": "Sadık Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Melma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Feride Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Ahmet Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":4,
+            "slug" :"kutuk-temiz-masa",
+            "name": "Kütük Temiz Masa",
+            "cover": "https://www.samsundekormobilya.com/kullanici/icerik/urun_resimleri/img4635jpg9097316.jpg",
+            "images":[
+                {
+                    "url" :"https://www.eymreklam.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-07-14-at-11.29.01-1-1024x768-1.jpeg"
+                },
+                {
+                    "url" :"https://www.samsundekormobilya.com/kullanici/icerik/urun_resimleri/img4024jpg90924451.jpg"
+                }
+            ],
+            "price": 2.800,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "Iphone 7 Plus"
+                },
+                {
+                    "name" : "Playstation 4"
+                },
+                {
+                    "name" : "ipad"
+                },
+                {
+                    "name" : "Bulaşık Makinesi"
+                }
+            ],
+            "date" :"27.07.2019",
+            "category": "mobilya",
+            "ownerid" :4,
+            "commnets" :[
+                {
+                    "author": "Uygar Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Kelma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Metin Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Ali Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":5,
+            "slug" : "barbie-oyuncak",
+            "name": "Barbie Oyuncak",
+            "cover": "https://www.hediyecik.com/images/products/00/03/36/336_buyuk_4.jpg",
+            "images":[
+                {
+                    "url" :"https://n11scdn.akamaized.net/a1/450/kitap-muzik-film-oyun/karakter-oyuncak/kutulu-barbie-aksesuarli-market-kasasi-hesap-makinali__0666116318350255.jpg"
+                },
+                {
+                    "url" :"https://n11scdn.akamaized.net/a1/450/kitap-muzik-film-oyun/elektronik/barbie-oyuncak-yazar-kasa-aksesuarli-market-kasasi-hesap-makinali__1579382530046428.jpg"
+                }
+            ],
+            "price": 174.90,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "Iphone 8 Telefon Kabı"
+                },
+                {
+                    "name" : "Playstation Kolu"
+                },
+                {
+                    "name" : "Kuş Kafesi"
+                },
+                {
+                    "name" : "Küçük sepha"
+                },
+                {
+                    "name" : "Zigon Takımı"
+                },
+                {
+                    "name" : "TV Konsolu"
+                }
+            ],
+            "date" :"08.11.2019",
+            "category": "oyuncak",
+            "ownerid" : 5,
+            "commnets" :[
+                {
+                    "author": "Uygar Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Kelma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Metin Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Ali Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":6,
+            "slug" : "20-adet-dgs-kitabi",
+            "name": "20 adet DGS Kitabı",
+            "cover": "https://img.letgo.com/images/ba/ad/17/13/baad17135e6a37c4dfdc29632d6f3a7e.jpeg?impolicy=img_600",
+            "images":[
+                {
+                    "url" :"https://img.ikincielim.com/iel_Resim/Buyukler/884752.jpg"
+                },
+                {
+                    "url" :"https://img.ikincielim.com/iel_Resim/Buyukler/1478307.jpg"
+                }
+    
+            ],
+            "price": 275,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "10 adet matematik kitabı"
+                },
+                {
+                    "name" : "Aksesuar Kolye"
+                },
+                {
+                    "name" : "Trend Çanta"
+                },
+                {
+                    "name" : "2 adet Hoparlör"
+                }
+            ],
+            "date" :"28.08.2016",
+            "category": "kitap-okul",
+            "ownerid" :6,
+            "commnets" :[
+                {
+                    "author": "Uygar Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Kelma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Metin Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Ali Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":7,
+            "slug" : "gta-5",
+            "name": "GTA 5",
+            "cover": "https://static.collishop.be/wcsstore/ColruytB2CCAS/JPG/JPG/646x1000/std.lang.all/02/19/asset-1910219.jpg",
+            "images":[
+                {
+                    "url" :"https://lh3.googleusercontent.com/proxy/GqU_mdX-QSlImJKbDuP_ysJKqmytYLaxnqEl9Kpu_DeT8bi75e4oaT9V-vUoN9rxdVnd9bP0x_DWcNvCvTs5RgwB7OBPiXuPl5MxrW1Px27u-l9CyHN4rdobBQ9mH3axeYfpy-CTq-xlmNQunzleJrIbIt3Iw5kWufsQ97DyNNV2ArND-VKH_sMBnI2LGRipMsWjStorYJNLJUDF0qrwDpojWvhm4AB41GNPzT8jgq-ctaI"
+                }
+    
+            ],
+            "price": 159,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "Far Cry 3"
+                },
+                {
+                    "name" : "Pes 2020"
+                },
+                {
+                    "name" : "FIFA 2020"
+                },
+                {
+                    "name" : "Bas Hoparlör"
+                }
+            ],
+            "date" :"12.01.2019",
+            "category": "oyun-film",
+            "ownerid" : 7,
+            "commnets" :[
+                {
+                    "author": "Uygar Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Kelma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Metin Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Ali Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":8,
+            "slug" : "sporcu-cantasi",
+            "name": "Sporcu Çantası",
+            "cover": "https://st-hummel.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/980016-2001-stay-sports-bag-637055608244059614.jpg",
+            "images":[
+                {
+                    "url" :"https://img-morhipo.mncdn.com/mnresize/1200/1645/productimages/4053986204104/[img][5][1][900x1234].jpg?1654"
+                }
+    
+            ],
+            "price": 110,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "Saat"
+                },
+                {
+                    "name" : "Puma Çanta"
+                },
+                {
+                    "name" : "2 adet ağırlık"
+                }
+            ],
+            "date" :"12.08.2017",
+            "category": "spor",
+            "ownerid" : 8,
+            "commnets" :[
+                {
+                    "author": "Uygar Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Kelma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Metin Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Ali Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":9,
+            "slug" : "huawei-p30-temiz-telefon",
+            "name": "Huawei P30 Temiz Telefon",
+            "cover": "https://cdn.pocket-lint.com/r/s/1200x/assets/images/147530-phones-review-review-huawei-p30-pro-review-image1-towuafzpte.jpg",
+            "images":[
+                {
+                    "url" :"https://i2.wp.com/fr.cameroonmagazine.com/wp-content/uploads/2020/05/1588580878-huawei-p30-pro-12-gb-ram-1560575440.jpg?fit=600%2C337&ssl=1"
+                },
+                {
+                    "url" :"https://img-cdn.hipertextual.com/files/2019/03/hipertextual-2019831888.jpg?strip=all&lossy=1&quality=70&resize=740%2C490&ssl=1"
+                }
+    
+            ],
+            "price": 4.700,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "İphone X Plus"
+                },
+                {
+                    "name" : "Playstation 5"
+                },
+                {
+                    "name" : "Samsung QLED TV"
+                },
+                {
+                    "name" : "26 inç İMAC"
+                }
+            ],
+            "date" :"12.07.2018",
+            "category": "telefon",
+            "ownerid" : 9,
+            "commnets" :[
+                {
+                    "author": "Uygar Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Kelma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Metin Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Ali Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":10,
+            "slug" : "lenevo-bilgisayar-32-gb",
+            "name": "Lenevo Bilgisayar 32 GB",
+            "cover": "https://img.letgo.com/images/8f/6f/44/2d/8f6f442d57074b46fe16b0392185b16a.jpg?impolicy=img_600",
+            "images":[
+                {
+                    "url" :"https://img.letgo.com/images/38/ba/cf/c1/38bacfc1309d18178b6e3d06bd926baa.jpg?impolicy=img_600"
+                },
+                {
+                    "url" :"https://i4.hurimg.com/i/hurriyet/75/750x422/5e141d1167b0a923443c9561.jpeg"
+                }
+    
+            ],
+            "price": 2.800,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "iMac"
+                },
+                {
+                    "name" : "Casper Notebook"
+                },
+                {
+                    "name" : "Akıllı saat"
+                },
+                {
+                    "name" : "Fenerbahçe Kombine"
+                }
+            ],
+            "date" :"12.01.2019",
+            "category": "bilgisayar",
+            "ownerid" : 10,
+            "commnets" :[
+                {
+                    "author": "Uygar Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Kelma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Metin Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Ali Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":11,
+            "slug" : "fenerbahce-2019-original-forma",
+            "name": "Fenerbahçe 2019 Original Forma",
+            "cover": "https://img.letgo.com/images/d5/49/6a/ea/d5496aeaa51fbbc4f7a601ef57af0fc3.jpeg?impolicy=img_600_pwa",
+            "images":[
+                {
+                    "url" :"https://img.letgo.com/images/2a/b7/31/65/2ab73165683c71ec83cf0610bf91c07a.jpg?impolicy=img_600"
+                },
+                {
+                    "url" :"https://lh3.googleusercontent.com/proxy/IHw0z67vMT1wanDOG-KgnHzvpnGpdR2DSfwJ9WWxMZkupzdU5O7QCp7t9ccQj8U1Zk7FIdWg2zNt5EhpWVgLa4GJsmsN7bVEfEx_BomlVPwyhwNBDnCBE-IF7LOkwWqpz4khdlm-OsoWqBVJuoD1IvC1PQ_DSdN_THecGQq-6LHkl5Q1WRrDtPN5_iYh4vE4OgTkLY9FDPZqJmWSufWj"
+                }
+    
+            ],
+            "price": 280,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "Fenerbahçe Maraton Kombine"
+                },
+                {
+                    "name" : "Casper Yazıcı"
+                },
+                {
+                    "name" : "Akıllı saat"
+                },
+                {
+                    "name" : "Fenerbahçe yeni forma"
+                }
+            ],
+            "date" :"29.12.2020",
+            "category": "giyim",
+            "ownerid" :11,
+            "commnets" :[
+                {
+                    "author": "Uygar Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Kelma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Metin Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Ali Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":12,
+            "slug" : "gri-renk-dijital-saat",
+            "name": "Gri Renk Dijital Saat",
+            "cover": "https://cdn03.ciceksepeti.com/cicek/kc643574-1/XL/gizli-kadranli-dijital-saat-kc643574-1-1.jpg",
+            "images":[
+                {
+                    "url" :"https://chamakhbutik-img.ticimaxcdn.com/Uploads/UrunResimleri/buyuk/Ince-hasir-kordon-saat-d1a3.jpg"
+                },
+                {
+                    "url" :"https://cdn03.ciceksepeti.com/cicek/kc643574-1/L/gizli-kadranli-dijital-saat-kc643574-1-2.jpg"
+                }
+            ],
+            "price": 192,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "ray ban gözlük"
+                },
+                {
+                    "name" : "Casper Yazıcı"
+                },
+                {
+                    "name" : "Bebek Arabası"
+                }
+            ],
+            "date" :"12.01.2019",
+            "category": "aksesuar",
+            "ownerid" : 12,
+            "commnets" :[
+                {
+                    "author": "Uygar Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Kelma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Metin Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Ali Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":13,
+            "slug" : "temiz-akvaryum",
+            "name": "Temiz Akvaryum",
+            "cover": "https://foto.akvaryum.com/fotolar/217661/190920191232081.jpg",
+            "images":[
+                {
+                    "url" :"https://foto.akvaryum.com/fotolar/204640/130420182311391.jpg"
+                },
+                {
+                    "url" :"https://foto.akvaryum.com/fotolar/215082/010520191918341.jpg"
+                }
+    
+            ],
+            "price": 360,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "Gözlük"
+                },
+                {
+                    "name" : "Fenerbahçe Original Forma"
+                },
+                {
+                    "name" : "Şişme Bebek Havuzu"
+                },
+                {
+                    "name" : "Televizyon Konsolu"
+                }
+            ],
+            "date" :"17.01.2018",
+            "category": "mobilya",
+            "ownerid" : 12,
+            "commnets" :[
+                {
+                    "author": "Uygar Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Kelma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Metin Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Ali Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":14,
+            "slug" : "akulu-araba",
+            "name": "Akülü Araba",
+            "cover": "https://i.ytimg.com/vi/kmlnAqryvhw/maxresdefault.jpg",
+            "images":[
+                {
+                    "url" :"https://i.ytimg.com/vi/lYILyNXqadA/maxresdefault.jpg"
+                }
+    
+            ],
+            "price": 1.650,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "Altın Kolye"
+                },
+                {
+                    "name" : "İphone 6 Plus"
+                },
+                {
+                    "name" : "Huawei Modelleri Telefon"
+                },
+                {
+                    "name" : "Fenerbahçe Maraton Üst Kombine"
+                }
+            ],
+            "date" :"12.01.2019",
+            "category": "oyuncak",
+            "ownerid" : 11,
+            "commnets" :[
+                {
+                    "author": "Uygar Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Kelma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Metin Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Ali Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":15,
+            "slug" : "lgs-matematik-fizik-kimya-kitaplari",
+            "name": "LGS Matematik, Fizik, Kimya kitapları",
+            "cover": "https://i0.shbdn.com/photos/85/53/82/x5_672855382e0g.jpg",
+            "images":[
+                {
+                    "url" :"https://img.letgo.com/images/07/c3/a5/c0/07c3a5c015dfa0e47d4345d1bc1e089a.jpeg?impolicy=img_600"
+                },
+                {
+                    "url" :"https://img.letgo.com/images/d3/80/dc/94/d380dc9493715da69e29ab650cc6dae9.jpeg?impolicy=img_600"
+                }
+            ],
+            "price": 160,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "LGS Soru bankası"
+                },
+                {
+                    "name" : "Yazıcı Kartuş"
+                },
+                {
+                    "name" : "Bilgisayar koltuğu"
+                }
+            ],
+            "date" :"12.01.2019",
+            "category": "kitap-okul",
+            "ownerid" :6,
+            "commnets" :[
+                {
+                    "author": "Uygar Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Kelma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Metin Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Ali Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":16,
+            "slug" : "far-cry-5-ps-4",
+            "name": "Far cry 5 PS 4",
+            "cover": "https://www.konsoldunyasi.com/wp-content/uploads/2013/04/PS4-FAR-CRY-5-DELUXE-EDITION.jpg",
+            "images":[
+                {
+                    "url" :"https://cdn.akakce.com/ubisoft/far-cry-5-deluxe-edition-ps4-z.jpg"
+                }
+            ],
+            "price": 240,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "Last of Us"
+                },
+                {
+                    "name" : "Beyond to Souls"
+                },
+                {
+                    "name" : "FIFA 2020"
+                }
+            ],
+            "date" :"12.01.2019",
+            "category": "film-oyun",
+            "ownerid" : 7,
+            "commnets" :[
+                {
+                    "author": "Uygar Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Kelma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Metin Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Ali Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        },
+        {
+            "advertId":17,
+            "slug" : "10-kilo-agirlik-2-adet",
+            "name": "10 Kilo Ağırlık 2 adet",
+            "cover": "https://img.letgo.com/images/1d/6e/e8/bc/1d6ee8bcd05392a688f168a2881aa19f.jpg?impolicy=img_600_pwa",
+            "images":[
+                {
+                    "url" :"https://img.letgo.com/images/0a/8c/13/d0/0a8c13d04bbd19d7d3553a1342b4d0a9.jpg?impolicy=img_600_pwa"
+                }
+            ],
+            "price": 120,
+            "detail" : "Bu ürün gayet temiz kullanılmıştır. 0 gibidir. Ben kefilim. Takas yapacak arkadaşlarda ürününün arkasında durursa çok sevinirim,İnşallah onların ürünleride bu ürün gibi temizdir ve aldığıma pişman olmam. Daha önce başıma geldi çünkü, pişman oldum ve aramızda baya bir problem oldu zar zor hallettik ama, dediği gibi bir daha sıkıntı yaşamak istemiyorum. Teklif veren arkadaşlar bunun bilincinde olup teklif versinler bence..",
+            "swapWant" :[
+                {
+                    "name" : "Kolye, Bileklik"
+                },
+                {
+                    "name" : "Mouse"
+                },
+                {
+                    "name" : "Klavye"
+                }
+            ],
+            "date" :"12.01.2019",
+            "category": "spor",
+            "ownerid" : 0,
+            "commnets" :[
+                {
+                    "author": "Uygar Başkan",
+                    "date": "12.03.2020",
+                    "text" : "Başarılı bir ürün.. Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Kelma elma",
+                    "date": "08.03.2020",
+                    "text" : "Gayet temiz gözüküyor."
+                },
+                {
+                    "author": "Metin Frei",
+                    "date": "18.03.2018",
+                    "text" : "Vay be ürüne bak ! "
+                },
+                {
+                    "author": "Ali Memedov",
+                    "date": "02.03.2016",
+                    "text" : "Ürün temiz mi abi ? "
+                }
+            ]
+        }
+    ],
+    
+    "membership":[
+        {
+            "id":0,
+            "name": "Şahin Zaybak",
+            "country" : "İstanbul",
+            "phone":"0539 506 69 51",
+            "facebook" : "https://www.facebook.com/sahin.zaybak",
+            "instagram": "https://www.instagram.com/sahinzaybak",
+            "photo": "https://instagram.fist6-1.fna.fbcdn.net/v/t51.2885-19/s150x150/21372935_717878288411972_7572445006942699520_a.jpg?_nc_ht=instagram.fist6-1.fna.fbcdn.net&_nc_ohc=Kfp6Yi-GCi0AX-_sda8&oh=f1430cc3f2bbb349d3225d64f3ee9598&oe=5EEC3A24",
+            "work": "Bilgisayar mühendisliği"
+        },
+        {
+            "id":1,
+            "name": "Atakan Yasin Uludağ",
+            "country" : "Antalya",
+            "phone":"0542 898 48 47",
+            "facebook" : "https://www.facebook.com/atknuludag",
+            "instagram": "https://www.instagram.com/atknuludag",
+            "photo": "https://scontent.fist6-2.fna.fbcdn.net/v/t1.0-1/p200x200/67181561_10218402909333735_8896662602021601280_n.jpg?_nc_cat=111&_nc_sid=7206a8&_nc_ohc=oEOp18-0o2gAX__UaNL&_nc_ht=scontent.fist6-2.fna&_nc_tp=6&oh=e3a10c0ae3d89c6d573c5ec5e3ed083b&oe=5EE89B38",
+            "work" :"Yazılım"
+        },
+        {
+            "id":2,
+            "name": "Merve Ece Uzun",
+            "country" : "İstanbul",
+            "phone":"0537 89 51 47",
+            "facebook" : "https://www.facebook.com",
+            "instagram": "https://www.instagram.com",
+            "photo": "https://instagram.fist6-1.fna.fbcdn.net/v/t51.2885-19/s150x150/81211669_2457479724523121_5103733762668101632_n.jpg?_nc_ht=instagram.fist6-1.fna.fbcdn.net&_nc_ohc=rtT23k3Z9qsAX9huu0S&oh=7a3f9560638781edf960057d634a96c9&oe=5EED809B",
+            "work" :"Yazılım"
+        },
+        {
+            "id":3,
+            "name": "Gamze Uğurlu",
+            "country" : "İstanbul",
+            "phone":"0539 448 62 74",
+            "facebook" : "https://www.facebook.com",
+            "instagram": "https://www.instagram.com",
+            "photo": "https://scontent.fist6-1.fna.fbcdn.net/v/t1.0-1/p200x200/92946497_10222935368552189_278599448861343744_o.jpg?_nc_cat=102&_nc_sid=7206a8&_nc_ohc=LsiFbXp4Ic4AX-Al6Gy&_nc_ht=scontent.fist6-1.fna&_nc_tp=6&oh=2c4025426ead16671c0779f69a35f47d&oe=5EE8733E",
+            "work":"Bankacı"
+        },
+        {
+            "id":4,
+            "name": "Metin Uğurlu",
+            "country" : "Erzincan",
+            "phone":"0547 987 14 71",
+            "facebook" : "https://www.facebook.com",
+            "instagram": "https://www.instagram.com",
+            "photo": "https://scontent.fist6-2.fna.fbcdn.net/v/t1.0-1/p200x200/96600402_264663814587162_2618879613228548096_n.jpg?_nc_cat=104&_nc_sid=7206a8&_nc_ohc=-r8G215o_3MAX9cVEJr&_nc_ht=scontent.fist6-2.fna&_nc_tp=6&oh=24bf11b62f1acbd3e55f7398bda06815&oe=5EE9168E",
+            "work":"Serbest Meslek"
+        },
+        {
+            "id":5,
+            "name": "Saadet Karadoğan",
+            "country" : "Ankara",
+            "phone":"0547 147 98 14",
+            "facebook" : "https://www.facebook.com",
+            "instagram": "https://www.instagram.com",
+            "photo": "https://scontent.fist6-1.fna.fbcdn.net/v/t1.0-1/p200x200/82914917_2829393680461263_1890675342780137472_o.jpg?_nc_cat=105&_nc_sid=7206a8&_nc_ohc=0GVUwedOnn0AX8I9rKg&_nc_ht=scontent.fist6-1.fna&_nc_tp=6&oh=1ba0165b659aaa6cf0770a798bf37f58&oe=5EE82D1B",
+            "work":"Ev hanımı"
+        },
+        {
+            "id":6,
+            "name": "Yiğit Küçükmeric",
+            "country" : "Trabzon",
+            "phone":"0535 741 59 63",
+            "facebook" : "https://www.facebook.com",
+            "instagram": "https://www.instagram.com",
+            "photo": "https://scontent.fist6-2.fna.fbcdn.net/v/t1.0-1/p200x200/51552622_10218192281178453_1164284557847953408_n.jpg?_nc_cat=104&_nc_sid=7206a8&_nc_ohc=05KHU0fEiHMAX_f4L-c&_nc_ht=scontent.fist6-2.fna&_nc_tp=6&oh=6a1403c9492e36d01af6543c4187efd9&oe=5EE723ACs",
+            "work":"Sağlık çalışanı"
+        },
+        {
+            "id":7,
+            "name": "Polat Uğurlu",
+            "country" : "Adana",
+            "phone":"0535 741 59 63",
+            "facebook" : "https://www.facebook.com",
+            "instagram": "https://www.instagram.com",
+            "photo": "https://scontent.fist6-2.fna.fbcdn.net/v/t31.0-1/p200x200/25586999_2024791217761471_3836897930347382598_o.jpg?_nc_cat=101&_nc_sid=7206a8&_nc_ohc=8deHJokwkqcAX98YrHZ&_nc_ht=scontent.fist6-2.fna&_nc_tp=6&oh=289ee5e120d6ac5aa20179ff852c22d4&oe=5EE74F46",
+            "work":"Öğrenci"
+        },
+        {
+            "id":8,
+            "name": "Murat Karadibek",
+            "country" : "Çanakkale",
+            "phone":"0547 598 43 51",
+            "facebook" : "https://www.facebook.com",
+            "instagram": "https://www.instagram.com",
+            "photo": "https://scontent.fist6-2.fna.fbcdn.net/v/t1.0-1/c0.25.200.200a/p200x200/52469053_10156762306131839_2390617885450960896_o.jpg?_nc_cat=101&_nc_sid=7206a8&_nc_ohc=fb0b4tbshHYAX-5tbwZ&_nc_ht=scontent.fist6-2.fna&oh=2bffcee36b57061e21eef27f29e9dfaa&oe=5EE71CD9",
+            "work":"Serbest Meslek"
+        },
+        {
+            "id":9,
+            "name": "Ersan Kubal",
+            "country" : "İstanbul",
+            "phone":"0547 598 43 51",
+            "facebook" : "https://www.facebook.com",
+            "instagram": "https://www.instagram.com",
+            "photo": "https://scontent.fist6-2.fna.fbcdn.net/v/t1.0-1/p200x200/69923962_10157559159464394_4248147346405195776_o.jpg?_nc_cat=104&_nc_sid=7206a8&_nc_ohc=G2U5f3smOOYAX_S55gL&_nc_ht=scontent.fist6-2.fna&_nc_tp=6&oh=440ad704d22a8e4fd75ecb45c72defcf&oe=5EE6DB92",
+            "work":"Elektrik Ustası"
+        },
+        {
+            "id":10,
+            "name": "İlker Karadibek",
+            "country" : "Ankara",
+            "phone":"0547 598 43 51",
+            "facebook" : "https://www.facebook.com",
+            "instagram": "https://www.instagram.com",
+            "photo": "https://scontent.fist6-1.fna.fbcdn.net/v/t1.0-1/s200x200/75362210_10221375040704378_5078194495556681728_n.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_ohc=rPv5bdS9Y2IAX_c_7Hc&_nc_ht=scontent.fist6-1.fna&_nc_tp=7&oh=f566abd717b2c2a01b36c0b33dfa8270&oe=5EEA8B32",
+            "work" : "GPS sistemleri"
+        },
+        {
+            "id":11,
+            "name": "Ferhat Karadoğan",
+            "country" : "İstanbul",
+            "phone":"0547 598 43 51",
+            "facebook" : "https://www.facebook.com",
+            "instagram": "https://www.instagram.com",
+            "photo": "https://scontent.fist6-2.fna.fbcdn.net/v/t1.0-1/p200x200/40932296_10214354265623754_3509682639604809728_n.jpg?_nc_cat=111&_nc_sid=7206a8&_nc_ohc=NznNPWwp5nAAX8i39eM&_nc_ht=scontent.fist6-2.fna&_nc_tp=6&oh=92f0c3bc71201f2d70f9e640d16d93c1&oe=5EEA16DD",
+            "work":"Napal şirketinde müdür"
+        },
+        {
+            "id":12,
+            "name": "Ayten Uğurlu",
+            "country" : "İstanbul",
+            "phone":"0547 598 43 51",
+            "facebook" : "https://www.facebook.com",
+            "instagram": "https://www.instagram.com",
+            "photo": "https://scontent.fist6-1.fna.fbcdn.net/v/t1.0-1/p200x200/18767899_1410359332379009_1764115277631027130_n.jpg?_nc_cat=106&_nc_sid=7206a8&_nc_ohc=MkaO3oeJBWMAX-8Lcr9&_nc_ht=scontent.fist6-1.fna&_nc_tp=6&oh=ad4690131b9565a77318226deea60611&oe=5EE9C89B",
+            "work":"Ev hanımı"
+        }
+    ],
+
+    "advertProduct":[
+        {
+            "id":0,
+            "adverts":[
+                {
+                    "advertId":2
+                },
+                {
+                    "advertId":5
+                },
+                {
+                    "advertId":8
+                }
+            ]
+        }
+    ]
+}

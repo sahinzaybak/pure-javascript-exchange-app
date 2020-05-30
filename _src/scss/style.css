@@ -182,9 +182,11 @@ header .header-item:nth-child(9):hover {
   outline: 0;
 }
 
+.detail-left {
+  border-right: 1px solid #e0e0e0;
+}
 .detail .images {
   margin-bottom: 20px;
-  height: 340px;
 }
 .detail .images img {
   height: 100%;
@@ -221,6 +223,23 @@ header .header-item:nth-child(9):hover {
   color: whitesmoke;
   font-size: 15px;
 }
+.detail-wrp .area-button {
+  background-color: #b4ea4c;
+  padding: 13px 28px;
+  border-radius: 5px;
+  transition: all 0.3s;
+  font-size: 15px;
+  outline: 0;
+  margin-top: 23px;
+  margin-left: -1px;
+  color: #444444;
+  transition: all 0.3s;
+  display: block;
+  width: max-content;
+}
+.detail-wrp .area-button:hover {
+  background-color: #c4f566;
+}
 .detail-wrp .info {
   margin-top: 25px;
 }
@@ -233,4 +252,86 @@ header .header-item:nth-child(9):hover {
 }
 .detail .social {
   justify-content: space-evenly;
+  width: 145px;
+  margin: 0 auto;
+}
+.detail .buttons a {
+  width: 50%;
+  padding: 5px;
+  border-radius: 3px;
+  background-color: #e2e2e2;
+  font-size: 17px !important;
+  outline: 0;
+  border: 1px solid #dadada;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+.detail .owner img {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+}
+.detail .owner h2 {
+  font-size: 20px;
+}
+.detail .owner a {
+  font-size: 20px;
+  color: #212529;
+}
+.detail .owner a i {
+  font-size: 15px;
+}
+.detail .owner i {
+  font-size: 20px;
+  color: #52565a;
+}
+.detail-title {
+  margin-bottom: 30px;
+}
+.detail-title h2 {
+  border-bottom: 1px solid #e2e2e2;
+  padding-bottom: 8px;
+  color: #404040;
+  font-size: 20px;
+}
+.detail-title__text {
+  font-size: 15px;
+  line-height: 1.7;
+  color: #616161;
+}
+.detail-title.comments .comments-item {
+  margin-bottom: 10px;
+  border-bottom: 1px solid #e6e5e5;
+}
+.detail-title.comments .user h4 {
+  font-size: 13px;
+}
+.detail-title.comments .user p {
+  font-size: 12px;
+}
+.detail-title.comments .text {
+  font-size: 15px;
+  line-height: 1.7;
+  color: #616161;
+}
+
+.modal-body select {
+  width: 100%;
+  height: 46px;
+  text-indent: 8px;
+  border-radius: 4px;
+  border: 1px solid #dfdddd;
+  box-shadow: #dddddd 1px 1px 8px 1px;
+  cursor: pointer;
+  outline: 0;
+}
+.modal-body .products img {
+  width: 150px;
+}
+.modal-body .products h1 {
+  color: #696868;
+}
+.modal-body .products p {
+  font-size: 30px;
+  color: #ff3f55;
 }
