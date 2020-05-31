@@ -365,7 +365,29 @@ header{
         }
         p{
             font-size: 30px;
-    color: #ff3f55;
+            color: #ff3f55;
+            border-bottom: 1px solid #d6d4d4;
+            padding-bottom: 4px;
+            margin-bottom: 10px;
         }
     }
+    .price{
+     
+        h2{
+            font-size: 14px;
+            padding: 0;
+            color: #8e8e8e;
+        }
+        p{
+            font-size: 23px;
+            border: 0;
+            margin: 0;
+            padding: 0;
+            color: #464545;
+        }
+        &.active{
+            display: block;
+        }
+    }
+
 }

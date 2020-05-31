@@ -75,7 +75,6 @@ member().then(owner => {
         const ownerWrpMain = document.querySelector('.owner');
         ownerWrpMain.innerHTML = ownerWrp;
 
-
         //Burada ilan detayının text'ini gösterdik.
         const productDesc = advertDetail[0].ürünDetay;
         const desc = document.querySelector('.detail-title__text');
@@ -128,7 +127,7 @@ member().then(owner => {
             });
 
             //Takas etmek istediği ürün modal'dan bir ürün seçildiğinde seçili ürünün bilgilerini getir.
-            let detailPr;
+            let detailPr; //seçilen ürün
             function selectAdvert(e){
                 const selected = e.target.value;
                 detailPr = allProdcuts.filter(x => x.name == selected).map(item => { //seçilen isim ile listedeki isim aynı ise bilgileri getir.
@@ -138,6 +137,19 @@ member().then(owner => {
                         urunFiyati : item.price
                     }
                 })
+
+                //ekstra ödeme..
+                let extraPay;
+                let extraPayContent;
+                if(advertDetail[0].fiyat > detailPr[0].urunFiyati){
+                    extraPay  = (advertDetail[0].fiyat - detailPr[0].urunFiyati) //ekstra ödeme.
+                    extraPayContent=`
+                    <div class="price">
+                        <h2>Eksta olarak yapmanız gereken ödeme :</h2>
+                        <p> ${extraPay} ₺ </p>
+                    </div>                    `
+                }
+            
                 const showSelectedDetail = `
                     <div class="detail-wrp d-flex align-items-center mt-4">
                         <div class="image">
@@ -146,6 +158,10 @@ member().then(owner => {
                         <div class="detail ml-4">
                             <h1>${detailPr[0].urunAdi}</h1>
                             <p>${detailPr[0].urunFiyati} ₺ </p>
+                            ${(() => {
+                                if (extraPayContent != undefined) return extraPayContent; //-> Template literal içinde if kullanımı
+                                else return ''
+                            })()}
                         </div>
                     </div>
                 `
